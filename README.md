@@ -7,4 +7,4 @@ This repo is dedicated to [Pacific Dataviz Challenge](https://twitter.com/Pacifi
 # 🔖 Resources
 
 - [🚀 Submission form](https://dataviz.pacificdata.org/)
-- [Kaggle Notebook](https://www.kaggle.com/code/adriensales/pacific-dataviz)
+- [📜 Kaggle Notebook](https://www.kaggle.com/code/adriensales/pacific-dataviz)
